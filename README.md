@@ -1,7 +1,7 @@
 ### Hi there, I’m Maria Duarte 👋
 
 - I’m a Computer Science student at the Universidade Tecnológica Federal do Paraná
-- I’m currently learning JavaScript, NodeJS, ReactJS, TypeScript
+- I’m currently learning JavaScript, NodeJS, ReactJS, TypeScript, Angular.
 
 <div>
   <a href="https://github.com/duartemariaa">
